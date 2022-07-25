@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Abraham";
-    src: url("font/AbrahamTRIAL-Regular.otf");
+    src: url("../font/Abraham-Regular.otf");
 }
 
 @font-face {
     font-family: "Abraham-light";
-    src: url("font/AbrahamTRIAL-Light.otf");
+    src: url("../font/Abraham-Light.otf");
 }
 
 
