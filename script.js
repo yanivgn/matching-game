@@ -28,6 +28,7 @@ let gametype;
 
 if (!(gameId in allwords)) {
   console.log("משחק לא קיים!");
+  throw new Error("Game id is missing")
 } else {
   filteredWords = allwords[gameId].cards;
   game_type = allwords[gameId].media;
