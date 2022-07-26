@@ -449,6 +449,10 @@ label {
         min-width: 75px;
     }
 
+    .instructions{
+        display:none;
+    }
+
 
 
     /* cards */
