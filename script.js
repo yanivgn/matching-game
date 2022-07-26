@@ -115,13 +115,13 @@ $.each(words_array, function (i, word) {
             `<div class="card match-${array_of_data[counter1]}" data-match="${array_of_data[counter1]}" data-group="${lang}" data-audio="${words_array[counter1]}"> <img src="media/audio_icon.png" width="40" alt="play audio"> </div>`
           );
         }
-        else if(game_type === "image"){
-            d1.insertAdjacentHTML(
-                "beforeend",
-                `<div style="padding:5px;" class="card match-${array_of_data[counter1]}" data-match="${array_of_data[counter1]}" data-group="${lang}"><img style="width:100%;" src="${words_array[counter1]}"></div>`
-              );
-           
-        } 
+        else if (game_type === "image") {
+          d1.insertAdjacentHTML(
+            "beforeend",
+            `<div style="padding:5px;box-sizing:border-box;height:100px;overflow:hidden;" class="card match-${array_of_data[counter1]}" data-match="${array_of_data[counter1]}" data-group="${lang}"><img style="width:120px" src="${words_array[counter1]}"></div>`
+          );
+
+        }
         else {
           d1.insertAdjacentHTML(
             "beforeend",

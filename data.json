@@ -26,7 +26,6 @@
                 "sideA": "צוּרַה",
                 "sideB": "תמונה"
             }
-
         ]
     },
     "2": {
@@ -56,7 +55,6 @@
                 "sideA": "צוּרַה",
                 "sideB": "https://madrasa-voice.s3.eu-west-2.amazonaws.com/Female/Nagham+(246).mp3"
             }
-
         ]
     },
     "3": {
@@ -86,9 +84,6 @@
                 "sideA": "צוּרַה",
                 "sideB": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Framed_wall_art_%28Unsplash%29.jpg/640px-Framed_wall_art_%28Unsplash%29.jpg"
             }
-
         ]
     }
 }
-
-
