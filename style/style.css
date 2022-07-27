@@ -361,8 +361,14 @@ label {
 }
 
 .popup h2 {
-    font-family: "Abraham";
+    font-family: "Abraham-Light";
+    font-weight: 300;
     color: rgb(27, 100, 55);
+}
+
+.popup img{
+    display:block;
+    margin:auto;
 }
 
 
@@ -453,7 +459,7 @@ label {
         display:none;
     }
     .popup .instructions{
-        display:black;
+        display:block;
     }
 
 
