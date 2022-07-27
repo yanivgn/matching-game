@@ -179,7 +179,7 @@ $(".card").each(function (index, card) {
       } else if ($(this).data("match") === currentCard.data("match")) {
         // if we picked the right card
         if (allow_sound) {
-          new Audio("../media/correct.wav").play();
+          new Audio("media/correct.wav").play();
         }
         let match = $(".match-" + $(this).data("match"));
         match.css("outline", "2px solid green").css("background", "lightgreen");
@@ -210,7 +210,7 @@ $(".card").each(function (index, card) {
       } else {
         // if wrong
         if (allow_sound) {
-          new Audio("../media/wrong.wav").play();
+          new Audio("media/wrong.wav").play();
         }
         $(this).css("outline", "2px solid red");
         $(this).css("background", "#ff000091");
