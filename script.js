@@ -20,7 +20,7 @@ $("#start_game-btn").click(function () {
   $("#popup_container").css("display", "none");
 });
 
-var allwords = loadJson("data.json");
+var allwords = loadJson("data/data.json");
 
 var gameId = getParam("id");
 let filteredWords;
@@ -30,7 +30,7 @@ if (!(gameId in allwords)) {
   console.log("משחק לא קיים!");
   throw new Error("Game id is missing")
 } else {
-  filteredWords = allwords[gameId].cards;
+  filteredWords = getRandomWords(6,allwords[gameId].cards);
   game_type = allwords[gameId].media;
 }
 
