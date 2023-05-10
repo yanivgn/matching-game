@@ -7726,792 +7726,801 @@
          }
       ]
    },
-   "course2_text1":[
-      {
-         "sideA":"הַאת!",
-         "sideB":"תן!"
-      },
-      {
-         "sideA":"הַ-(א)לְקַדֵّה",
-         "sideB":"עד כדי כך"
-      },
-      {
-         "sideA":"שְוַי שְוַי",
-         "sideB":"לאט, לאט לאט"
-      },
-      {
-         "sideA":"יַמַّא",
-         "sideB":"אמא (פנייה)"
-      },
-      {
-         "sideA":"אַהְלַן וּסַהְלַן",
-         "sideB":"ברוך הבא"
-      },
-      {
-         "sideA":"טִלְעַת רִיחְתוֹ",
-         "sideB":"\"יצא הריח שלו\", הסריח"
-      },
-      {
-         "sideA":"חַ'לַץ - יִחְ'לַץ",
-         "sideB":"הסתיים, נגמר"
-      },
-      {
-         "sideA":"לַחַדّ מַא",
-         "sideB":"עד ש"
-      },
-      {
-         "sideA":"מְסַאפֵר - יְסַאפֵר",
-         "sideB":"נוסע"
-      },
-      {
-         "sideA":"תְטַלַّע - יִתְטַלַّע",
-         "sideB":"הסתכל, הקשיב"
-      },
-      {
-         "sideA":"רַמַא - יִרְמִי",
-         "sideB":"זרק"
-      },
-      {
-         "sideA":"בַּקַא - יִבְּקַא",
-         "sideB":"נשאר, המשיך"
-      },
-      {
-         "sideA":"בַּכַּא - יִבְּכִּי",
-         "sideB":"בכה"
-      },
-      {
-         "sideA":"אַגַ'א - יִיגִ'י",
-         "sideB":"בא"
-      },
-      {
-         "sideA":"זַבַּט – יֻזַבֹּט",
-         "sideB":"הסתדר"
-      },
-      {
-         "sideA":"דַרַס - יֻדְרֹס",
-         "sideB":"למד"
-      },
-      {
-         "sideA":"עַזַף - יִעְזֵף",
-         "sideB":"ניגן"
-      },
-      {
-         "sideA":"נִסִי - יִנְסַא",
-         "sideB":"שכח"
-      },
-      {
-         "sideA":"רִיחַה",
-         "sideB":"ריח, בושם"
-      },
-      {
-         "sideA":"זְבַּאלֵה",
-         "sideB":"זבל"
-      },
-      {
-         "sideA":"אַמֵירְכַּא",
-         "sideB":"אמריקה"
-      },
-      {
-         "sideA":"טַאוְלַה - טַאוְלַאת",
-         "sideB":"שולחן"
-      },
-      {
-         "sideA":"בּוּלַנְדַא",
-         "sideB":"פולין"
-      },
-      {
-         "sideA":"דַרְס - דְרוּס",
-         "sideB":"שיעור"
-      },
-      {
-         "sideA":"כֻּרְסִי - כַּרַאסִי",
-         "sideB":"כיסא"
-      },
-      {
-         "sideA":"כּוֹרס - כּוּרְסַאת",
-         "sideB":"קורס"
-      },
-      {
-         "sideA":"תַעְלִים",
-         "sideB":"לימודים"
-      },
-      {
-         "sideA":"סַמַא - סַמַאוַאת",
-         "sideB":"שמיים"
-      },
-      {
-         "sideA":"נַאי",
-         "sideB":"חליל"
-      },
-      {
-         "sideA":"דַאר - דוּר",
-         "sideB":"בית"
-      },
-      {
-         "sideA":"עַמַّאן",
-         "sideB":"עמאן"
-      },
-      {
-         "sideA":"מַטַאר - מַטַארַאת",
-         "sideB":"שדה תעופה, נמל תעופה"
-      },
-      {
-         "sideA":"חַדִיקַה - חַדַאאֵק",
-         "sideB":"גן"
-      },
-      {
-         "sideA":"חַרְבּ - חְרוּבּ",
-         "sideB":"מלחמה"
-      },
-      {
-         "sideA":"רִיַאצַ'ה",
-         "sideB":"ספורט"
-      },
-      {
-         "sideA":"בֵּיצַ'ה - בִּיצ'",
-         "sideB":"ביצה"
-      },
-      {
-         "sideA":"תֻפַّאחַה",
-         "sideB":"תפוח"
-      },
-      {
-         "sideA":"עִלְבֵּה - עִלַבּ",
-         "sideB":"קופסה"
-      },
-      {
-         "sideA":"מְעַלֵّם - מְעַלְّמִין",
-         "sideB":"מורה"
-      },
-      {
-         "sideA":"עֵין - עְיוּן",
-         "sideB":"עין"
-      },
-      {
-         "sideA":"סְתוּדְיוֹ - סְתוּדְיוֹהַאת",
-         "sideB":"סטודיו"
-      },
-      {
-         "sideA":"שַגַ'רַה - אַשְגַ'אר",
-         "sideB":"עץ"
-      },
-      {
-         "sideA":"עַאלַם",
-         "sideB":"עולם"
-      },
-      {
-         "sideA":"עַלַם - אַעְלַאם",
-         "sideB":"דגל"
-      },
-      {
-         "sideA":"תֻרְכִּיַّא",
-         "sideB":"תורכיה"
-      },
-      {
-         "sideA":"רַמַצַ'אן",
-         "sideB":"חודש רמדאן"
-      },
-      {
-         "sideA":"סֻרְעַה",
-         "sideB":"מהירות"
-      },
-      {
-         "sideA":"בְּסֻרְעַה",
-         "sideB":"במהירות, מהר"
-      },
-      {
-         "sideA":"אַחְסַן",
-         "sideB":"יותר טוב"
-      },
-      {
-         "sideA":"אַבְּיַץ' - בֵּיצַ'א, בִּיץ'",
-         "sideB":"לבן"
-      },
-      {
-         "sideA":"אַחְמַר - חַמְרַא, חֻמֹר",
-         "sideB":"אדום"
-      },
-      {
-         "sideA":"אַסְוַד - סוֹדַא, סוּד",
-         "sideB":"שחור"
-      },
-      {
-         "sideA":"עַ'אלִי - עַ'אלְיֵה, עַ'אלִיִין",
-         "sideB":"יקר"
-      },
-      {
-         "sideA":"אַחְ'צַ'ר - חַ'צְ'רַא, חֻ'צֹ'ר",
-         "sideB":"ירוק"
-      },
-      {
-         "sideA":"אַזְרַק - זַרְקַא, זֻרֹק",
-         "sideB":"כחול"
-      },
-      {
-         "sideA":"בִּנִّי - בִּנִّיִّה, בִּנִّיִّין",
-         "sideB":"חום"
-      },
-      {
-         "sideA":"זַהְרִי - זַהְרִיֵّה, זַהְרִיִّין",
-         "sideB":"ורוד"
-      },
-      {
-         "sideA":"בֻּרְדְקַאנִי - בֻּרְדְקַאנִיֵّה, בֻּרְדְקַאנִיִّין",
-         "sideB":"כתום"
-      },
-      {
-         "sideA":"סַכַּנִי - סַכַּנִיֵّה, סַכַּנִיִّין",
-         "sideB":"אפור"
-      },
-      {
-         "sideA":"מִסְכִּין - מַסַאכִּין",
-         "sideB":"מסכן"
-      },
-      {
-         "sideA":"אַבַּדַן",
-         "sideB":"אף פעם"
-      },
-      {
-         "sideA":"בַּעְד אִ(ל)צֻّ'הֹר",
-         "sideB":"אחר הצהריים"
-      }
-   ],
-   "course2_audio1":[
-      {
-         "sideA":"תן!",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(1).mp3"
-      },
-      {
-         "sideA":"עד כדי כך",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(2).mp3"
-      },
-      {
-         "sideA":"לאט, לאט לאט",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(3).mp3"
-      },
-      {
-         "sideA":"אמא (פנייה)",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(4).mp3"
-      },
-      {
-         "sideA":"ברוך הבא",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(5).mp3"
-      },
-      {
-         "sideA":"\"יצא הריח שלו\", הסריח",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(6).mp3"
-      },
-      {
-         "sideA":"הסתיים, נגמר",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(103).mp3"
-      },
-      {
-         "sideA":"עד ש",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(88).mp3"
-      },
-      {
-         "sideA":"נוסע",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(104).mp3"
-      },
-      {
-         "sideA":"הסתכל, הקשיב",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(105).mp3"
-      },
-      {
-         "sideA":"זרק",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(106).mp3"
-      },
-      {
-         "sideA":"נשאר, המשיך",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(107).mp3"
-      },
-      {
-         "sideA":"בכה",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(108).mp3"
-      },
-      {
-         "sideA":"בא",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(109).mp3"
-      },
-      {
-         "sideA":"הסתדר",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(110).mp3"
-      },
-      {
-         "sideA":"למד",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(111).mp3"
-      },
-      {
-         "sideA":"ניגן",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(112).mp3"
-      },
-      {
-         "sideA":"שכח",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(136).mp3"
-      },
-      {
-         "sideA":"ריח, בושם",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(180).mp3"
-      },
-      {
-         "sideA":"זבל",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(181).mp3"
-      },
-      {
-         "sideA":"אמריקה",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(182).mp3"
-      },
-      {
-         "sideA":"שולחן",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(183).mp3"
-      },
-      {
-         "sideA":"פולין",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(184).mp3"
-      },
-      {
-         "sideA":"שיעור",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(185).mp3"
-      },
-      {
-         "sideA":"כיסא",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(186).mp3"
-      },
-      {
-         "sideA":"קורס",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(187).mp3"
-      },
-      {
-         "sideA":"לימודים",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(188).mp3"
-      },
-      {
-         "sideA":"שמיים",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(189).mp3"
-      },
-      {
-         "sideA":"חליל",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(190).mp3"
-      },
-      {
-         "sideA":"בית",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(191).mp3"
-      },
-      {
-         "sideA":"עמאן",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(192).mp3"
-      },
-      {
-         "sideA":"שדה תעופה, נמל תעופה",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(193).mp3"
-      },
-      {
-         "sideA":"גן",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(194).mp3"
-      },
-      {
-         "sideA":"מלחמה",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(195).mp3"
-      },
-      {
-         "sideA":"ספורט",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(196).mp3"
-      },
-      {
-         "sideA":"ביצה",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(197).mp3"
-      },
-      {
-         "sideA":"תפוח",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(198).mp3"
-      },
-      {
-         "sideA":"קופסה",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(199).mp3"
-      },
-      {
-         "sideA":"מורה",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(200).mp3"
-      },
-      {
-         "sideA":"עין",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(201).mp3"
-      },
-      {
-         "sideA":"סטודיו",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(202).mp3"
-      },
-      {
-         "sideA":"עץ",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(203).mp3"
-      },
-      {
-         "sideA":"עולם",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(204).mp3"
-      },
-      {
-         "sideA":"דגל",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(205).mp3"
-      },
-      {
-         "sideA":"תורכיה",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(206).mp3"
-      },
-      {
-         "sideA":"חודש רמדאן",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(207).mp3"
-      },
-      {
-         "sideA":"מהירות",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(327).mp3"
-      },
-      {
-         "sideA":"במהירות, מהר",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(332).mp3"
-      },
-      {
-         "sideA":"יותר טוב",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(338).mp3"
-      },
-      {
-         "sideA":"לבן",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(339).mp3"
-      },
-      {
-         "sideA":"אדום",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(341).mp3"
-      },
-      {
-         "sideA":"שחור",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(342).mp3"
-      },
-      {
-         "sideA":"יקר",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(343).mp3"
-      },
-      {
-         "sideA":"ירוק",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(344).mp3"
-      },
-      {
-         "sideA":"כחול",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(345).mp3"
-      },
-      {
-         "sideA":"חום",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(346).mp3"
-      },
-      {
-         "sideA":"ורוד",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(347).mp3"
-      },
-      {
-         "sideA":"כתום",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(348).mp3"
-      },
-      {
-         "sideA":"אפור",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(349).mp3"
-      },
-      {
-         "sideA":"מסכן",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(350).mp3"
-      },
-      {
-         "sideA":"אף פעם",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(376).mp3"
-      },
-      {
-         "sideA":"אחר הצהריים",
-         "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(377).mp3"
-      }
-   ],
-   "course2_text2":[
-      {
-         "sideA":"אִנְתֵ (אל)תַّאנִי",
-         "sideB":"גם כן אתה!"
-      },
-      {
-         "sideA":"הֵיכּ אִשִי",
-         "sideB":"משהו כזה"
-      },
-      {
-         "sideA":"חַ'לִّיכּ פִי חַאלַכּ",
-         "sideB":"שב בשקט, אל תתערב"
-      },
-      {
-         "sideA":"גִ'ית מִתְאַחֵّ'ר",
-         "sideB":"איחרת / הגעת מאוחר"
-      },
-      {
-         "sideA":"לֵיש קַאלֵבּ בּוּזַכּ?",
-         "sideB":"למה אתה מצוברח?"
-      },
-      {
-         "sideA":"חַבִּיבֵּת קַלְבִּי",
-         "sideB":"יקירתי, אהובתי"
-      },
-      {
-         "sideA":"בִּ(אל)נַّגַ'אח וּ(אל)תַّוְפִיק",
-         "sideB":"בהצלחה"
-      },
-      {
-         "sideA":"תְרוּח וִתִרְגַ'ע בִּ(אל)סַّלַאמֵה",
-         "sideB":"נסיעה טובה (שתלך ותחזור בשלום)"
-      },
-      {
-         "sideA":"בַּ(א)שְתְעֵ'ל X",
-         "sideB":"אני עובד כ"
-      },
-      {
-         "sideA":"חֹ'ד שְמַאלַכּ",
-         "sideB":"פנה שמאלה"
-      },
-      {
-         "sideA":"כִּיף בִּדִّי אַוְצַל לַ..?",
-         "sideB":"איך אני מגיע ל..?"
-      },
-      {
-         "sideA":"עַ(א)לְיַמִין",
-         "sideB":"ימינה"
-      },
-      {
-         "sideA":"עַ(אל)שְّמַאל",
-         "sideB":"שמאלה"
-      },
-      {
-         "sideA":"תְפַצַّ'ל",
-         "sideB":"בבקשה, התכבד"
-      },
-      {
-         "sideA":"וִלַّא?",
-         "sideB":"אלא מה?"
-      },
-      {
-         "sideA":"אִהְדַא",
-         "sideB":"הירגע!"
-      },
-      {
-         "sideA":"שַםّ אֵלהַוַא",
-         "sideB":"יצא לסיבוב, נשם אוויר"
-      },
-      {
-         "sideA":"בַּעַצ'",
-         "sideB":"(ביטוי להדדיות, אחד את השני)"
-      },
-      {
-         "sideA":"עַשַאן",
-         "sideB":"כי, כדי, בשביל"
-      },
-      {
-         "sideA":"חִ'לַאל",
-         "sideB":"במהלך, במשך"
-      },
-      {
-         "sideA":"לִאַנّוֹ / לַאִנّוֹ",
-         "sideB":"כי, בגלל ש"
-      },
-      {
-         "sideA":"דַלّ - יְדִלّ",
-         "sideB":"הנחה, הוביל, הכווין"
-      },
-      {
-         "sideA":"סַאעַד - יְסַאעֵד",
-         "sideB":"עזר"
-      },
-      {
-         "sideA":"לַףّ - יְלִףّ",
-         "sideB":"הסתובב"
-      },
-      {
-         "sideA":"שַםّ - יְשִםّ",
-         "sideB":"הריח"
-      },
-      {
-         "sideA":"רַדّ - יְרֻדّ",
-         "sideB":"השיב על"
-      },
-      {
-         "sideA":"צַףّ - יְצֻףّ",
-         "sideB":"חנה"
-      },
-      {
-         "sideA":"צַ'לّ - יְצַ'לّ",
-         "sideB":"נשאר"
-      },
-      {
-         "sideA":"חַ'אף - יְחַ'אף",
-         "sideB":"פחד"
-      },
-      {
-         "sideA":"סַאק - יְסוּק",
-         "sideB":"נהג"
-      },
-      {
-         "sideA":"מִסֵכּ - יִמְסֵכּ",
-         "sideB":"תפס"
-      },
-      {
-         "sideA":"כַּסַّר - יִכְּסֵר",
-         "sideB":"שבר"
-      },
-      {
-         "sideA":"לִבֵּס - יִלְבַּס",
-         "sideB":"לבש"
-      },
-      {
-         "sideA":"בַּדַא - יִבְּדַא",
-         "sideB":"התחיל"
-      },
-      {
-         "sideA":"מַשְהַד - מַשַאהֵד",
-         "sideB":"סצנה"
-      },
-      {
-         "sideA":"אַזְמֵה - אַזְמַאת",
-         "sideB":"משבר כלכלי"
-      },
-      {
-         "sideA":"אַזְמֵת סֵיר",
-         "sideB":"פקקים"
-      },
-      {
-         "sideA":"עַדַّאד",
-         "sideB":"מונה"
-      },
-      {
-         "sideA":"רֻחְ'צֵת סְוַאקַה",
-         "sideB":"רישיון נהיגה"
-      },
-      {
-         "sideA":"רֻחְ'צַה - רֻחַ'ץ",
-         "sideB":"רישיון"
-      },
-      {
-         "sideA":"תַכְּסִי - תַכַּאסִי",
-         "sideB":"מונית"
-      },
-      {
-         "sideA":"חַיְוַאן - חַיְוַאנַאת",
-         "sideB":"חיה"
-      },
-      {
-         "sideA":"רַמְזוֹן - רַמְזוֹנַאת",
-         "sideB":"רמזור"
-      },
-      {
-         "sideA":"בַּרִיטַאנְיַא",
-         "sideB":"אנגליה"
-      },
-      {
-         "sideA":"אִלְהִנְד",
-         "sideB":"הודו"
-      },
-      {
-         "sideA":"שְמַאל",
-         "sideB":"שמאל"
-      },
-      {
-         "sideA":"תַוְפִיק",
-         "sideB":"הצלחה"
-      },
-      {
-         "sideA":"כַּמַאן",
-         "sideB":"כינור"
-      },
-      {
-         "sideA":"מַכְּתַבֵּה - מַכְּתַבַּאת",
-         "sideB":"ספרייה / חנות ספרים / חנות מכשירי כתיבה"
-      },
-      {
-         "sideA":"אַזְמֵת סֵיר",
-         "sideB":"פקקים"
-      },
-      {
-         "sideA":"אִלְמַחַטַّה אִלְמַרְכַּזִיֵّה",
-         "sideB":"תחנה מרכזית"
-      },
-      {
-         "sideA":"חַמַّאם - חַמַّאמַאת",
-         "sideB":"מקלחת"
-      },
-      {
-         "sideA":"פִנְגַ'אן - פַנַאגִ'ין",
-         "sideB":"כוס"
-      },
-      {
-         "sideA":"מַחְכַּמֵה - מַחַאכֵּם",
-         "sideB":"בית משפט"
-      },
-      {
-         "sideA":"מַסְגֵ'ד - מַסַאגֵ'ד",
-         "sideB":"מסגד"
-      },
-      {
-         "sideA":"עֻרֹס - אַעְרַאס",
-         "sideB":"חתונה"
-      },
-      {
-         "sideA":"בַּוַّאבֵּה - בַּוַّאבַּאת",
-         "sideB":"שער, דלת"
-      },
-      {
-         "sideA":"הַוַא",
-         "sideB":"אוויר, אהבה"
-      },
-      {
-         "sideA":"טַלְעַה - טַלְעַאת",
-         "sideB":"עלייה"
-      },
-      {
-         "sideA":"מַגְ'נוּן - מַגַ'אנִין",
-         "sideB":"משוגע"
-      },
-      {
-         "sideA":"יַמִין",
-         "sideB":"ימין"
-      },
-      {
-         "sideA":"מַחַטַّה - מַחַטַّאת",
-         "sideB":"תחנה"
-      },
-      {
-         "sideA":"אַכִּיד",
-         "sideB":"בטח, ברור"
-      },
-      {
-         "sideA":"רַאִיסִי - רַאִיסִיֵّה",
-         "sideB":"ראשי, מרכזי"
-      },
-      {
-         "sideA":"עַאדִי - עַאדִיֵّה, עַאדִיִّין",
-         "sideB":"רגיל / אין בעיה, לא נורא"
-      },
-      {
-         "sideA":"זַכִּי - זַכִּיֵّה, אַזְכִּיַא",
-         "sideB":"חכם"
-      },
-      {
-         "sideA":"בִּ(א)לְאַוַّל",
-         "sideB":"קודם כל, דבר ראשון"
-      },
-      {
-         "sideA":"בִּ(א)לְאַאחֵ'ר",
-         "sideB":"בסופו של דבר, בסוף"
-      },
-      {
-         "sideA":"לִסַّא",
-         "sideB":"עדיין"
-      },
-      {
-         "sideA":"אַעְטִינִי!",
-         "sideB":"תן לי!"
-      },
-      {
-         "sideA":"אַללַّה יְהַנִّיכּ",
-         "sideB":"תהנה"
-      }
-   ],
+   "course2_text1":{
+      "media":"text",
+      "cards":[
+         {
+            "sideA":"הַאת!",
+            "sideB":"תן!"
+         },
+         {
+            "sideA":"הַ-(א)לְקַדֵّה",
+            "sideB":"עד כדי כך"
+         },
+         {
+            "sideA":"שְוַי שְוַי",
+            "sideB":"לאט, לאט לאט"
+         },
+         {
+            "sideA":"יַמַّא",
+            "sideB":"אמא (פנייה)"
+         },
+         {
+            "sideA":"אַהְלַן וּסַהְלַן",
+            "sideB":"ברוך הבא"
+         },
+         {
+            "sideA":"טִלְעַת רִיחְתוֹ",
+            "sideB":"\"יצא הריח שלו\", הסריח"
+         },
+         {
+            "sideA":"חַ'לַץ - יִחְ'לַץ",
+            "sideB":"הסתיים, נגמר"
+         },
+         {
+            "sideA":"לַחַדّ מַא",
+            "sideB":"עד ש"
+         },
+         {
+            "sideA":"מְסַאפֵר - יְסַאפֵר",
+            "sideB":"נוסע"
+         },
+         {
+            "sideA":"תְטַלַّע - יִתְטַלַّע",
+            "sideB":"הסתכל, הקשיב"
+         },
+         {
+            "sideA":"רַמַא - יִרְמִי",
+            "sideB":"זרק"
+         },
+         {
+            "sideA":"בַּקַא - יִבְּקַא",
+            "sideB":"נשאר, המשיך"
+         },
+         {
+            "sideA":"בַּכַּא - יִבְּכִּי",
+            "sideB":"בכה"
+         },
+         {
+            "sideA":"אַגַ'א - יִיגִ'י",
+            "sideB":"בא"
+         },
+         {
+            "sideA":"זַבַּט – יֻזַבֹּט",
+            "sideB":"הסתדר"
+         },
+         {
+            "sideA":"דַרַס - יֻדְרֹס",
+            "sideB":"למד"
+         },
+         {
+            "sideA":"עַזַף - יִעְזֵף",
+            "sideB":"ניגן"
+         },
+         {
+            "sideA":"נִסִי - יִנְסַא",
+            "sideB":"שכח"
+         },
+         {
+            "sideA":"רִיחַה",
+            "sideB":"ריח, בושם"
+         },
+         {
+            "sideA":"זְבַּאלֵה",
+            "sideB":"זבל"
+         },
+         {
+            "sideA":"אַמֵירְכַּא",
+            "sideB":"אמריקה"
+         },
+         {
+            "sideA":"טַאוְלַה - טַאוְלַאת",
+            "sideB":"שולחן"
+         },
+         {
+            "sideA":"בּוּלַנְדַא",
+            "sideB":"פולין"
+         },
+         {
+            "sideA":"דַרְס - דְרוּס",
+            "sideB":"שיעור"
+         },
+         {
+            "sideA":"כֻּרְסִי - כַּרַאסִי",
+            "sideB":"כיסא"
+         },
+         {
+            "sideA":"כּוֹרס - כּוּרְסַאת",
+            "sideB":"קורס"
+         },
+         {
+            "sideA":"תַעְלִים",
+            "sideB":"לימודים"
+         },
+         {
+            "sideA":"סַמַא - סַמַאוַאת",
+            "sideB":"שמיים"
+         },
+         {
+            "sideA":"נַאי",
+            "sideB":"חליל"
+         },
+         {
+            "sideA":"דַאר - דוּר",
+            "sideB":"בית"
+         },
+         {
+            "sideA":"עַמַّאן",
+            "sideB":"עמאן"
+         },
+         {
+            "sideA":"מַטַאר - מַטַארַאת",
+            "sideB":"שדה תעופה, נמל תעופה"
+         },
+         {
+            "sideA":"חַדִיקַה - חַדַאאֵק",
+            "sideB":"גן"
+         },
+         {
+            "sideA":"חַרְבּ - חְרוּבּ",
+            "sideB":"מלחמה"
+         },
+         {
+            "sideA":"רִיַאצַ'ה",
+            "sideB":"ספורט"
+         },
+         {
+            "sideA":"בֵּיצַ'ה - בִּיצ'",
+            "sideB":"ביצה"
+         },
+         {
+            "sideA":"תֻפַّאחַה",
+            "sideB":"תפוח"
+         },
+         {
+            "sideA":"עִלְבֵּה - עִלַבּ",
+            "sideB":"קופסה"
+         },
+         {
+            "sideA":"מְעַלֵّם - מְעַלְّמִין",
+            "sideB":"מורה"
+         },
+         {
+            "sideA":"עֵין - עְיוּן",
+            "sideB":"עין"
+         },
+         {
+            "sideA":"סְתוּדְיוֹ - סְתוּדְיוֹהַאת",
+            "sideB":"סטודיו"
+         },
+         {
+            "sideA":"שַגַ'רַה - אַשְגַ'אר",
+            "sideB":"עץ"
+         },
+         {
+            "sideA":"עַאלַם",
+            "sideB":"עולם"
+         },
+         {
+            "sideA":"עַלַם - אַעְלַאם",
+            "sideB":"דגל"
+         },
+         {
+            "sideA":"תֻרְכִּיַّא",
+            "sideB":"תורכיה"
+         },
+         {
+            "sideA":"רַמַצַ'אן",
+            "sideB":"חודש רמדאן"
+         },
+         {
+            "sideA":"סֻרְעַה",
+            "sideB":"מהירות"
+         },
+         {
+            "sideA":"בְּסֻרְעַה",
+            "sideB":"במהירות, מהר"
+         },
+         {
+            "sideA":"אַחְסַן",
+            "sideB":"יותר טוב"
+         },
+         {
+            "sideA":"אַבְּיַץ' - בֵּיצַ'א, בִּיץ'",
+            "sideB":"לבן"
+         },
+         {
+            "sideA":"אַחְמַר - חַמְרַא, חֻמֹר",
+            "sideB":"אדום"
+         },
+         {
+            "sideA":"אַסְוַד - סוֹדַא, סוּד",
+            "sideB":"שחור"
+         },
+         {
+            "sideA":"עַ'אלִי - עַ'אלְיֵה, עַ'אלִיִין",
+            "sideB":"יקר"
+         },
+         {
+            "sideA":"אַחְ'צַ'ר - חַ'צְ'רַא, חֻ'צֹ'ר",
+            "sideB":"ירוק"
+         },
+         {
+            "sideA":"אַזְרַק - זַרְקַא, זֻרֹק",
+            "sideB":"כחול"
+         },
+         {
+            "sideA":"בִּנִّי - בִּנִّיִّה, בִּנִّיִّין",
+            "sideB":"חום"
+         },
+         {
+            "sideA":"זַהְרִי - זַהְרִיֵّה, זַהְרִיִّין",
+            "sideB":"ורוד"
+         },
+         {
+            "sideA":"בֻּרְדְקַאנִי - בֻּרְדְקַאנִיֵّה, בֻּרְדְקַאנִיִّין",
+            "sideB":"כתום"
+         },
+         {
+            "sideA":"סַכַּנִי - סַכַּנִיֵّה, סַכַּנִיִّין",
+            "sideB":"אפור"
+         },
+         {
+            "sideA":"מִסְכִּין - מַסַאכִּין",
+            "sideB":"מסכן"
+         },
+         {
+            "sideA":"אַבַּדַן",
+            "sideB":"אף פעם"
+         },
+         {
+            "sideA":"בַּעְד אִ(ל)צֻّ'הֹר",
+            "sideB":"אחר הצהריים"
+         }
+      ]
+   },
+   "course2_audio1":{
+      "media":"audio",
+      "cards":[
+         {
+            "sideA":"תן!",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(1).mp3"
+         },
+         {
+            "sideA":"עד כדי כך",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(2).mp3"
+         },
+         {
+            "sideA":"לאט, לאט לאט",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(3).mp3"
+         },
+         {
+            "sideA":"אמא (פנייה)",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(4).mp3"
+         },
+         {
+            "sideA":"ברוך הבא",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(5).mp3"
+         },
+         {
+            "sideA":"\"יצא הריח שלו\", הסריח",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(6).mp3"
+         },
+         {
+            "sideA":"הסתיים, נגמר",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(103).mp3"
+         },
+         {
+            "sideA":"עד ש",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(88).mp3"
+         },
+         {
+            "sideA":"נוסע",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(104).mp3"
+         },
+         {
+            "sideA":"הסתכל, הקשיב",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(105).mp3"
+         },
+         {
+            "sideA":"זרק",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(106).mp3"
+         },
+         {
+            "sideA":"נשאר, המשיך",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(107).mp3"
+         },
+         {
+            "sideA":"בכה",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(108).mp3"
+         },
+         {
+            "sideA":"בא",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(109).mp3"
+         },
+         {
+            "sideA":"הסתדר",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(110).mp3"
+         },
+         {
+            "sideA":"למד",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(111).mp3"
+         },
+         {
+            "sideA":"ניגן",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(112).mp3"
+         },
+         {
+            "sideA":"שכח",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(136).mp3"
+         },
+         {
+            "sideA":"ריח, בושם",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(180).mp3"
+         },
+         {
+            "sideA":"זבל",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(181).mp3"
+         },
+         {
+            "sideA":"אמריקה",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(182).mp3"
+         },
+         {
+            "sideA":"שולחן",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(183).mp3"
+         },
+         {
+            "sideA":"פולין",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(184).mp3"
+         },
+         {
+            "sideA":"שיעור",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(185).mp3"
+         },
+         {
+            "sideA":"כיסא",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(186).mp3"
+         },
+         {
+            "sideA":"קורס",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(187).mp3"
+         },
+         {
+            "sideA":"לימודים",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(188).mp3"
+         },
+         {
+            "sideA":"שמיים",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(189).mp3"
+         },
+         {
+            "sideA":"חליל",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(190).mp3"
+         },
+         {
+            "sideA":"בית",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(191).mp3"
+         },
+         {
+            "sideA":"עמאן",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(192).mp3"
+         },
+         {
+            "sideA":"שדה תעופה, נמל תעופה",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(193).mp3"
+         },
+         {
+            "sideA":"גן",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(194).mp3"
+         },
+         {
+            "sideA":"מלחמה",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(195).mp3"
+         },
+         {
+            "sideA":"ספורט",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(196).mp3"
+         },
+         {
+            "sideA":"ביצה",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(197).mp3"
+         },
+         {
+            "sideA":"תפוח",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(198).mp3"
+         },
+         {
+            "sideA":"קופסה",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(199).mp3"
+         },
+         {
+            "sideA":"מורה",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(200).mp3"
+         },
+         {
+            "sideA":"עין",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(201).mp3"
+         },
+         {
+            "sideA":"סטודיו",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(202).mp3"
+         },
+         {
+            "sideA":"עץ",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(203).mp3"
+         },
+         {
+            "sideA":"עולם",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(204).mp3"
+         },
+         {
+            "sideA":"דגל",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(205).mp3"
+         },
+         {
+            "sideA":"תורכיה",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(206).mp3"
+         },
+         {
+            "sideA":"חודש רמדאן",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(207).mp3"
+         },
+         {
+            "sideA":"מהירות",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(327).mp3"
+         },
+         {
+            "sideA":"במהירות, מהר",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(332).mp3"
+         },
+         {
+            "sideA":"יותר טוב",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(338).mp3"
+         },
+         {
+            "sideA":"לבן",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(339).mp3"
+         },
+         {
+            "sideA":"אדום",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(341).mp3"
+         },
+         {
+            "sideA":"שחור",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(342).mp3"
+         },
+         {
+            "sideA":"יקר",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(343).mp3"
+         },
+         {
+            "sideA":"ירוק",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(344).mp3"
+         },
+         {
+            "sideA":"כחול",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(345).mp3"
+         },
+         {
+            "sideA":"חום",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(346).mp3"
+         },
+         {
+            "sideA":"ורוד",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(347).mp3"
+         },
+         {
+            "sideA":"כתום",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(348).mp3"
+         },
+         {
+            "sideA":"אפור",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(349).mp3"
+         },
+         {
+            "sideA":"מסכן",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(350).mp3"
+         },
+         {
+            "sideA":"אף פעם",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(376).mp3"
+         },
+         {
+            "sideA":"אחר הצהריים",
+            "sideB":"https://madrasa-voice.s3.eu-west-2.amazonaws.com/course2/Words/Course2Word(377).mp3"
+         }
+      ]
+   },
+   "course2_text2":{
+      "media":"text",
+      "cards":[
+         {
+            "sideA":"אִנְתֵ (אל)תַّאנִי",
+            "sideB":"גם כן אתה!"
+         },
+         {
+            "sideA":"הֵיכּ אִשִי",
+            "sideB":"משהו כזה"
+         },
+         {
+            "sideA":"חַ'לִّיכּ פִי חַאלַכּ",
+            "sideB":"שב בשקט, אל תתערב"
+         },
+         {
+            "sideA":"גִ'ית מִתְאַחֵّ'ר",
+            "sideB":"איחרת / הגעת מאוחר"
+         },
+         {
+            "sideA":"לֵיש קַאלֵבּ בּוּזַכּ?",
+            "sideB":"למה אתה מצוברח?"
+         },
+         {
+            "sideA":"חַבִּיבֵּת קַלְבִּי",
+            "sideB":"יקירתי, אהובתי"
+         },
+         {
+            "sideA":"בִּ(אל)נַّגַ'אח וּ(אל)תַّוְפִיק",
+            "sideB":"בהצלחה"
+         },
+         {
+            "sideA":"תְרוּח וִתִרְגַ'ע בִּ(אל)סַّלַאמֵה",
+            "sideB":"נסיעה טובה (שתלך ותחזור בשלום)"
+         },
+         {
+            "sideA":"בַּ(א)שְתְעֵ'ל X",
+            "sideB":"אני עובד כ"
+         },
+         {
+            "sideA":"חֹ'ד שְמַאלַכּ",
+            "sideB":"פנה שמאלה"
+         },
+         {
+            "sideA":"כִּיף בִּדִّי אַוְצַל לַ..?",
+            "sideB":"איך אני מגיע ל..?"
+         },
+         {
+            "sideA":"עַ(א)לְיַמִין",
+            "sideB":"ימינה"
+         },
+         {
+            "sideA":"עַ(אל)שְّמַאל",
+            "sideB":"שמאלה"
+         },
+         {
+            "sideA":"תְפַצַّ'ל",
+            "sideB":"בבקשה, התכבד"
+         },
+         {
+            "sideA":"וִלַّא?",
+            "sideB":"אלא מה?"
+         },
+         {
+            "sideA":"אִהְדַא",
+            "sideB":"הירגע!"
+         },
+         {
+            "sideA":"שַםّ אֵלהַוַא",
+            "sideB":"יצא לסיבוב, נשם אוויר"
+         },
+         {
+            "sideA":"בַּעַצ'",
+            "sideB":"(ביטוי להדדיות, אחד את השני)"
+         },
+         {
+            "sideA":"עַשַאן",
+            "sideB":"כי, כדי, בשביל"
+         },
+         {
+            "sideA":"חִ'לַאל",
+            "sideB":"במהלך, במשך"
+         },
+         {
+            "sideA":"לִאַנّוֹ / לַאִנّוֹ",
+            "sideB":"כי, בגלל ש"
+         },
+         {
+            "sideA":"דַלّ - יְדִלّ",
+            "sideB":"הנחה, הוביל, הכווין"
+         },
+         {
+            "sideA":"סַאעַד - יְסַאעֵד",
+            "sideB":"עזר"
+         },
+         {
+            "sideA":"לַףّ - יְלִףّ",
+            "sideB":"הסתובב"
+         },
+         {
+            "sideA":"שַםّ - יְשִםّ",
+            "sideB":"הריח"
+         },
+         {
+            "sideA":"רַדّ - יְרֻדّ",
+            "sideB":"השיב על"
+         },
+         {
+            "sideA":"צַףّ - יְצֻףّ",
+            "sideB":"חנה"
+         },
+         {
+            "sideA":"צַ'לّ - יְצַ'לّ",
+            "sideB":"נשאר"
+         },
+         {
+            "sideA":"חַ'אף - יְחַ'אף",
+            "sideB":"פחד"
+         },
+         {
+            "sideA":"סַאק - יְסוּק",
+            "sideB":"נהג"
+         },
+         {
+            "sideA":"מִסֵכּ - יִמְסֵכּ",
+            "sideB":"תפס"
+         },
+         {
+            "sideA":"כַּסַّר - יִכְּסֵר",
+            "sideB":"שבר"
+         },
+         {
+            "sideA":"לִבֵּס - יִלְבַּס",
+            "sideB":"לבש"
+         },
+         {
+            "sideA":"בַּדַא - יִבְּדַא",
+            "sideB":"התחיל"
+         },
+         {
+            "sideA":"מַשְהַד - מַשַאהֵד",
+            "sideB":"סצנה"
+         },
+         {
+            "sideA":"אַזְמֵה - אַזְמַאת",
+            "sideB":"משבר כלכלי"
+         },
+         {
+            "sideA":"אַזְמֵת סֵיר",
+            "sideB":"פקקים"
+         },
+         {
+            "sideA":"עַדַّאד",
+            "sideB":"מונה"
+         },
+         {
+            "sideA":"רֻחְ'צֵת סְוַאקַה",
+            "sideB":"רישיון נהיגה"
+         },
+         {
+            "sideA":"רֻחְ'צַה - רֻחַ'ץ",
+            "sideB":"רישיון"
+         },
+         {
+            "sideA":"תַכְּסִי - תַכַּאסִי",
+            "sideB":"מונית"
+         },
+         {
+            "sideA":"חַיְוַאן - חַיְוַאנַאת",
+            "sideB":"חיה"
+         },
+         {
+            "sideA":"רַמְזוֹן - רַמְזוֹנַאת",
+            "sideB":"רמזור"
+         },
+         {
+            "sideA":"בַּרִיטַאנְיַא",
+            "sideB":"אנגליה"
+         },
+         {
+            "sideA":"אִלְהִנְד",
+            "sideB":"הודו"
+         },
+         {
+            "sideA":"שְמַאל",
+            "sideB":"שמאל"
+         },
+         {
+            "sideA":"תַוְפִיק",
+            "sideB":"הצלחה"
+         },
+         {
+            "sideA":"כַּמַאן",
+            "sideB":"כינור"
+         },
+         {
+            "sideA":"מַכְּתַבֵּה - מַכְּתַבַּאת",
+            "sideB":"ספרייה / חנות ספרים / חנות מכשירי כתיבה"
+         },
+         {
+            "sideA":"אַזְמֵת סֵיר",
+            "sideB":"פקקים"
+         },
+         {
+            "sideA":"אִלְמַחַטַّה אִלְמַרְכַּזִיֵّה",
+            "sideB":"תחנה מרכזית"
+         },
+         {
+            "sideA":"חַמַّאם - חַמַّאמַאת",
+            "sideB":"מקלחת"
+         },
+         {
+            "sideA":"פִנְגַ'אן - פַנַאגִ'ין",
+            "sideB":"כוס"
+         },
+         {
+            "sideA":"מַחְכַּמֵה - מַחַאכֵּם",
+            "sideB":"בית משפט"
+         },
+         {
+            "sideA":"מַסְגֵ'ד - מַסַאגֵ'ד",
+            "sideB":"מסגד"
+         },
+         {
+            "sideA":"עֻרֹס - אַעְרַאס",
+            "sideB":"חתונה"
+         },
+         {
+            "sideA":"בַּוַّאבֵּה - בַּוַّאבַּאת",
+            "sideB":"שער, דלת"
+         },
+         {
+            "sideA":"הַוַא",
+            "sideB":"אוויר, אהבה"
+         },
+         {
+            "sideA":"טַלְעַה - טַלְעַאת",
+            "sideB":"עלייה"
+         },
+         {
+            "sideA":"מַגְ'נוּן - מַגַ'אנִין",
+            "sideB":"משוגע"
+         },
+         {
+            "sideA":"יַמִין",
+            "sideB":"ימין"
+         },
+         {
+            "sideA":"מַחַטַّה - מַחַטַّאת",
+            "sideB":"תחנה"
+         },
+         {
+            "sideA":"אַכִּיד",
+            "sideB":"בטח, ברור"
+         },
+         {
+            "sideA":"רַאִיסִי - רַאִיסִיֵّה",
+            "sideB":"ראשי, מרכזי"
+         },
+         {
+            "sideA":"עַאדִי - עַאדִיֵّה, עַאדִיִّין",
+            "sideB":"רגיל / אין בעיה, לא נורא"
+         },
+         {
+            "sideA":"זַכִּי - זַכִּיֵّה, אַזְכִּיַא",
+            "sideB":"חכם"
+         },
+         {
+            "sideA":"בִּ(א)לְאַוַّל",
+            "sideB":"קודם כל, דבר ראשון"
+         },
+         {
+            "sideA":"בִּ(א)לְאַאחֵ'ר",
+            "sideB":"בסופו של דבר, בסוף"
+         },
+         {
+            "sideA":"לִסַّא",
+            "sideB":"עדיין"
+         },
+         {
+            "sideA":"אַעְטִינִי!",
+            "sideB":"תן לי!"
+         },
+         {
+            "sideA":"אַללַّה יְהַנִّיכּ",
+            "sideB":"תהנה"
+         }
+      ]
+   },
    "course2_audio2":[
       {
          "sideA":"גם כן אתה!",
